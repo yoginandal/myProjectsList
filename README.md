@@ -12,6 +12,10 @@ Description: This is a Fake e-commerce store which have 3 Pages Home Page, Produ
 
 Description: This is an travel-app where a user can add items which he/she wants to carry to trip it's like a to-pack list where user can select quantities of items with item description he/she can also filter item list using sort by dropdown below and can clear list using clear list button.
 
+## Project 3: Pizza Order App
+[Live Demo](https://fast-pizza-theta.vercel.app/)
+
+Description: This is an Pizza Order App user can select there fav pizzas and can order them :) built on React.
 ## Minor Projects(Components)
 [Live Demo](https://steps-app-delta.vercel.app/)
 
