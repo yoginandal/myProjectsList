@@ -16,20 +16,29 @@ Description: This is an travel-app where a user can add items which he/she wants
 [Live Demo](https://fast-pizza-theta.vercel.app/)
 
 Description: This is an Pizza Order App user can select there fav pizzas and can order them :) built on React.
-## Minor Projects(Components)
+## Project 4: Minor Project(Components)
 [Live Demo](https://steps-app-delta.vercel.app/)
 
 Description: This is a basic component where user can use previous and next buttons to see different messages he/she can also chnage messages directly using numbers 1,2,3 by clicking on them.
 
-## Major Project: blizzstudios.com (Static Wesbite)
+## Project 5: Major Project: blizzstudios.com (Static Wesbite)
 [Live Demo](https://blizzstudios.com)
 
 Description: blizzstudios.com is a design agency built on WordPress but most of it's components are created using custom HTML, CSS and JavaScript some noticable components are like video scrolling with user scroll and pause when he/she is not scrolling, there is a location component which use three.js and faq section with wow.js.
 
-## Major Project: oneplayer.co.in (e-commerce Wesbite)
+## Project 6: Major Project: oneplayer.co.in (e-commerce Wesbite)
 [Live Demo](https://oneplayer.co.in)
 
 Description: oneplayer is a cap store there caps are well known and even wore by many celebrities, this website is created on Shopify but it also uses so much custom HTML, CSS and JavaScript. 
 
+## Project 7: Minor Project: oneplayer.co.in (e-commerce Wesbite)
+[Live Demo](https://yoginandal.github.io/Pig-Game/)
+
+Description: Pig game is a game where 2 players play they roll the dice one by one and they have to commit to save there total before they get 1 if they get 1 before they commit there score it will be next player turn first 1 to get 100+ score wins. You can explore it more yourself :).
+
+## Project 8: Simon game (Minor Project)
+[Live Demo](https://yoginandal.github.io/Simonproject2/)
+
+Description: It's same simon game that we all know just plug and play enjoy :)
 
 
