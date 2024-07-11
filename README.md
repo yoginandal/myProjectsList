@@ -39,6 +39,13 @@ Description: Pig game is a game where 2 players play they roll the dice one by o
 ## Project 8: Simon game (Minor Project)
 [Live Demo](https://yoginandal.github.io/Simonproject2/)
 
+## Project 9: DPS-School Landing Page 
+[Live Demo](https://dps-school.vercel.app/)
+
+Description: DPS School landing page created on React which is 100% responsive and use power of react-slick.
+
+
+
 Description: It's same simon game that we all know just plug and play enjoy :)
 
 
